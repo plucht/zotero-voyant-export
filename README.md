@@ -1,12 +1,4 @@
-# Zotero Voyant Export [UNMAINTAINED]
-
-I no longer personally get a chance to do research very often, and so haven't
-been able to keep pace with the many changes to Zotero and the Firefox ecosystem.
-
-If someone wants to do something with the code, you have my full blessing. The
-code is under GPL3, aiming to be compatible with Voyant and Zotero's licenses.
-
-<hr>
+# Zotero Voyant Export
 
 Export your Zotero collections to Voyant.
 
